@@ -54,4 +54,13 @@ Muhammad Siddiqui
 
 Mathematics & Computer Science — University of Illinois Chicago
 
+
+## Application Screenshots
+
+### Campus Map
+![Campus Route Finder Map](Screenshot%202026-10-12%20165649.png)
+
+### Shortest Route Visualization
+![Campus Route Finder Route](Screenshot%202026-10-12%20165712.png)
+
 [LinkedIn](https://www.linkedin.com/in/muhammad-siddiqui-470700262/)
